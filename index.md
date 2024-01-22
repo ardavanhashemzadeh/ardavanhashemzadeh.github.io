@@ -1,8 +1,14 @@
-Accredited business conscious devops engineer wielding over a decade of experience leveraging cloud, open
-source, proprietary and commodity technologies to architect and deploy agile, resilient, and timeless solutions.
+Accredited business conscious devops engineer featuring generally holistic ideation
+whilst wielding over a decade of experience leveraging cloud, opensource, proprietary
+and commodity technologies to architect and deploy agile, resilient, and timeless solutions.
 
 ## PROFESSIONAL EXPERIENCE
-2019-Current Accenture, Cloud Migration and Implementation Delivery Specialist
+2022-Current Accenture, Infrastructure Transformation Associate Manager
+
+Technical Lead heading teams of Developers and DevOps engineers I joke to call me
+a plumber as when I'm not unblocking blockers I tend to be automating through pipelines.
+
+2019-2022 Accenture, Cloud Migration and Implementation Delivery Specialist
 
 Cloud Devops Consultant with telecommunications conglomerate client (Multiple engagements)
 
